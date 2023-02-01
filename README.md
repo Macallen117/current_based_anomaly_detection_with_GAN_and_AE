@@ -19,29 +19,29 @@
 
 # 3. data collection and preprocessing
 ## linear feed axis data
-![image](figures/linear feed axis Horizontal normal condition data with horizontal force changes.jpg)
-![image](figures/linear feed axis horizontal misalignment data.jpg)
+![image](figures/linear_feed_axis_Horizontal_normal_condition_data_with_horizontal_force_changes.jpg)
+![image](figures/linear_feed_axis_horizontal_misalignment_data.jpg)
 ## CNC data
-![image](figures/CNC_Horizontal normal condition data with horizontal force changes.jpg)
-![image](figures/CNC_Horizontal normal condition data with vertical force changes.jpg)
-![image](figures/CNC_horizontal misalignment data.jpg)
+![image](figures/CNC_Horizontal normal_condition_data_with_horizontal_force_changes.jpg)
+![image](figures/CNC_Horizontal_normal_condition_data_with_vertical_force_changes.jpg)
+![image](figures/CNC_horizontal_misalignment_data.jpg)
 
 # 4. data generation using W-DCGAN
 ![image](figures/GAN.jpg)
 
 ## linear feed axis data
-linear feed axis movie.gif
 
-![image](figures/linear feed axis generation example.jpg)
-![image](figures/linear feed axis similarity check1.jpg)
-![image](figures/linear feed axis similarity check2.jpg)
+![image](figures/linear_feed_axis_movie.gif)
+![image](figures/linear_feed_axis_generation_example.jpg)
+![image](figures/linear_feed_axis_similarity_check1.jpg)
+![image](figures/linear_feed_axis_similarity_check2.jpg)
 
 ## CNC data
-cnc movie.gif
 
-![image](figures/CNC generation example.jpg)
-![image](figures/CNC similarity check1.jpg)
-![image](figures/CNC similarity check2.jpg)
+![image](figures/cnc_movie.gif)
+![image](figures/CNC_generation_example.jpg)
+![image](figures/CNC_similarity_check1.jpg)
+![image](figures/CNC_similarity_check2.jpg)
 
 # 5. Fault detection using various autoencoders
 ## CNN-AE
@@ -55,10 +55,10 @@ cnc movie.gif
 
 **Result:**
 train on linear feed axis data:
-![image](figures/linear feed axis reconstruction example.jpg)
-![image](figures/linear feed axis loss distribution example.jpg)
-![image](figures/linear feed axis classification example.jpg)
+![image](figures/linear_feed_axis_reconstruction_example.jpg)
+![image](figures/linear_feed_axis_loss_distribution_example.jpg)
+![image](figures/linear_feed_axis_classification_example.jpg)
 transfer to CNC data
-![image](figures/CNC reconstruction example2.jpg)
-![image](figures/CNC loss distribution example2.jpg.jpg)
-![image](figures/CNC classification example2.jpg)
+![image](figures/CNC_reconstruction_example2.jpg)
+![image](figures/CNC_loss_distribution_example2.jpg)
+![image](figures/CNC_classification_example2.jpg)
