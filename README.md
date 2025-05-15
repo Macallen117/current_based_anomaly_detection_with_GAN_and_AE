@@ -95,5 +95,7 @@ This project is accompanied by the following published article:
 Demetgul, M., Zheng, Q., Tansel, I. N., & Fleischer, J. (2023). Monitoring the misalignment of machine tools with autoencoders after they are trained with transfer learning data. The International Journal of Advanced Manufacturing Technology, 128(7), 3357-3373.
 
 Contributors
+
 Dr.Mustafa Demetgül – Academic Supervisor
+
 Qi Zheng – Developer
