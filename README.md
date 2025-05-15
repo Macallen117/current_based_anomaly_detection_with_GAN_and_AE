@@ -86,3 +86,14 @@ transfer to CNC data
 <img src="figures/CNC_loss_distribution_example2.jpg" width="450"/>
 
 <img src="figures/CNC_classification_example2.jpg" width="450"/>
+
+## Related Publication
+This project is accompanied by the following published article:
+
+(https://link.springer.com/article/10.1007/s00170-023-12060-2)
+
+Demetgul, M., Zheng, Q., Tansel, I. N., & Fleischer, J. (2023). Monitoring the misalignment of machine tools with autoencoders after they are trained with transfer learning data. The International Journal of Advanced Manufacturing Technology, 128(7), 3357-3373.
+
+Contributors
+Dr.Mustafa Demetgül – Academic Supervisor
+Qi Zheng – Developer
